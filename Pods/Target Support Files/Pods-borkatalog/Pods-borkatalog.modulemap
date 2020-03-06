@@ -1,0 +1,6 @@
+framework module Pods_borkatalog {
+  umbrella header "Pods-borkatalog-umbrella.h"
+
+  export *
+  module * { export * }
+}
